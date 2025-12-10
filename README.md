@@ -1,0 +1,1 @@
+# function_file-of-news
